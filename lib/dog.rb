@@ -16,5 +16,6 @@ class Dog
     @@all.each do |n|
       print n.name
   end
+end
   
 end
