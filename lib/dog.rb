@@ -21,4 +21,7 @@ end
     @@all << self
   end
   
+  def clear_all
+    
+  
 end
