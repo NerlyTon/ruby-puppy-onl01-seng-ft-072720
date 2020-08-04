@@ -13,7 +13,7 @@ class Dog
   end
   
   def print_all
-    puts @name
+    @@all.
   end
   
 end
